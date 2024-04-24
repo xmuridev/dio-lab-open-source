@@ -1,6 +1,6 @@
 # Murilo Fernandes 
 
-## Sobre mim 👩
+## Sobre mim 
 Estou cursando Análise e Desenvolvimento de Sistemas. No momento estou estudando C# e Java.
 
 ## 🔗 Conecte-se comigo
